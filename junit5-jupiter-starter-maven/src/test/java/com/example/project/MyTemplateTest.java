@@ -16,7 +16,7 @@ import org.junit.jupiter.api.extension.ParameterResolver;
 import org.junit.jupiter.api.extension.TestTemplateInvocationContext;
 import org.junit.jupiter.api.extension.TestTemplateInvocationContextProvider;
 
-class TestTemplateI {
+class MyTemplateTest {
 
 	final List<String> fruits = Arrays.asList("apple", "dog", "lemon");
 

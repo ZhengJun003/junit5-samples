@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * MyFastTest
  */
-class MyFastTestIT {
+class MyFastTest {
 
     @FastTest
     void myFastTest() {
